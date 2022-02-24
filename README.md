@@ -31,4 +31,4 @@
   "open-with-default-app",
   "file-recovery"
   
-  # 🎨 check my win terminal 👉![theme](github.com/mhimranhossain/pushon-oh-myposh-theme)
+  # 🎨 check my win terminal ![theme](github.com/mhimranhossain/pushon-oh-myposh-theme) 👈
