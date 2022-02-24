@@ -1,9 +1,9 @@
-## 🙋‍♂️ Hay if you like my work you can buy me a ![coffee](https://www.buymeacoffee.com/pushon)☕
+## 🙋‍♂️ Hay if you like my work you can buy me a [coffee](https://www.buymeacoffee.com/pushon)☕
 
-## 🎨 my-obsidian-theme V3 ![Download📥](https://github.com/mhimranhossain/my-obsidian-theme/raw/main/obsidian-theme%20V3.zip )
+## 🎨 my-obsidian-theme V3 [Download📥](https://github.com/mhimranhossain/my-obsidian-theme/raw/main/obsidian-theme%20V3.zip )
 ![image](https://user-images.githubusercontent.com/50992812/155570065-cc54f412-f0e5-4543-957a-edcfa04e5b56.png)
 
-## 🎨 my obsidian-theme V2 ![Download📥](https://github.com/mhimranhossain/my-obsidian-theme/raw/main/.obsidian.zip)
+## 🎨 my obsidian-theme V2 [Download📥](https://github.com/mhimranhossain/my-obsidian-theme/raw/main/.obsidian.zip)
 ![image](https://user-images.githubusercontent.com/50992812/155573991-9265bea8-e177-4ee3-8bdb-50aebf66c6a9.jpg)
 
 ## 🎨 my obsidian - V1
@@ -31,4 +31,4 @@
   "open-with-default-app",
   "file-recovery"
   
-  # 🎨 check my win terminal ![theme](github.com/mhimranhossain/pushon-oh-myposh-theme) 👈
+  # 🎨 check my win terminal [theme](github.com/mhimranhossain/pushon-oh-myposh-theme) 👈
