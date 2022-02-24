@@ -7,6 +7,7 @@
 
 # my obsidian - V1
 
-![image](https://user-images.githubusercontent.com/50992812/155574377-d5506b89-fc62-42c6-9445-2c26ba0b0eeb.png)
+![image](https://user-images.githubusercontent.com/50992812/155574667-acf3c816-b3a1-4beb-9420-d3f6b8b478d2.jpg)
+
 
 # Hay if you like my work you can buy me a ![coffee](https://www.buymeacoffee.com/pushon)☕
