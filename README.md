@@ -9,4 +9,24 @@
 ## my obsidian - V1
 ![image](https://user-images.githubusercontent.com/50992812/155574667-acf3c816-b3a1-4beb-9420-d3f6b8b478d2.jpg)
 
-### list of plugins used
+### list of Community plugins used
+  "table-editor-obsidian",
+  "highlightr-plugin",
+  "obsidian-style-settings",
+  "obsidian-hider",
+  "url-into-selection",
+  "css-snippets",
+  "obsidian-contextual-typography",
+  "obsidian-icons-plugin",
+  "obsidian-icon-folder",
+  "obsidian-editor-shortcuts"
+### list of core plugins enabled 
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "page-preview",
+  "command-palette",
+  "slash-command",
+  "outline",
+  "open-with-default-app",
+  "file-recovery"
