@@ -9,4 +9,4 @@
 
 ![image](https://user-images.githubusercontent.com/50992812/155574377-d5506b89-fc62-42c6-9445-2c26ba0b0eeb.png)
 
-# Hay if you like my work you can buy me a coffee. ![coffee](https://www.buymeacoffee.com/pushon)☕
+# Hay if you like my work you can buy me a ![coffee](https://www.buymeacoffee.com/pushon)☕
